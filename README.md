@@ -24,3 +24,27 @@ To play the game, you can run that EXE file inside the zip folder.
 - GameData.json
 
 ## Photo gallery
+
+### Tutorial
+
+![img-1](https://github.com/RubenTheCoder/hangman-geology-edition/assets/130549492/137824f8-e7ef-4022-a305-fe3156136318)
+
+### Main Menu
+
+![img-6](https://github.com/RubenTheCoder/hangman-geology-edition/assets/130549492/333d4b7a-3b67-49a8-b776-6e5ee6f2791b)
+
+### Gameplay
+
+![img-2](https://github.com/RubenTheCoder/hangman-geology-edition/assets/130549492/15926eb5-5883-4b40-a24f-ce62457d7503)
+
+### Results Screen
+
+![img-3](https://github.com/RubenTheCoder/hangman-geology-edition/assets/130549492/dd081732-7734-4140-86b6-c362ef66f70a)
+
+### Mindat.org after a round
+
+![img-4](https://github.com/RubenTheCoder/hangman-geology-edition/assets/130549492/3dfde62a-c1b5-4dda-9055-c503a9cb87ea)
+
+### Profile stats screem
+
+![img-5](https://github.com/RubenTheCoder/hangman-geology-edition/assets/130549492/d148918c-9b16-4093-9b6b-9a4faff2bd31)
